@@ -1,7 +1,7 @@
 [
     {
         "ident" : "zreko_auto_update_iden_1",
-        "hash" : "6408a08c6c74e7bcb62bb354dc75a54edbe8b2a8125096b959705673d93c5ad2",
+        "hash" : "b1c3061aece2ffc6ef51c1ce731866ccf2cafa5f8ec8fea42edc0ada7749a30f",
         "download_url" : "https://github.com/zReko/pd2mods/raw/main/RemoveBagCooldown.zip",
 		"patchnotes_url": "https://github.com/zReko/pd2mods/wiki/Changelogs"
     }
